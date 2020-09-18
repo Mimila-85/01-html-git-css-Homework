@@ -18,7 +18,7 @@ On this project my client requested to refactor their existing code to make it t
 [Horiseon](https://mimila-85.github.io/01-html-git-css-Homework/)
 
 ## Visual Result
-![Header](/Screenshots/Screenshot_1.png)
-![Section](/Screenshots/Screenshot_2.png)
-![Footer](/Screenshots/Screenshot_3.png)
+![Header](https://github.com/Mimila-85/01-html-git-css-Homework/blob/master/Screenshots/Screenshot_1.PNG)
+![Section](https://github.com/Mimila-85/01-html-git-css-Homework/blob/master/Screenshots/Screenshot_2.PNG)
+![Footer](https://github.com/Mimila-85/01-html-git-css-Homework/blob/master/Screenshots/Screenshot_3.PNG)
 
