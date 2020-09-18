@@ -13,3 +13,12 @@ On this project my client requested to refactor their existing code to make it t
 * As all < sections > had the same property value, one single class has been created to substitute the previous three classes. Same approach was made for < aside >.
 * Fixed missing id name for Search Engine Optimization that allows the < nav > link to connect to it. 
 * Updated style.css file to be in accordance with the modifications provided on index.html, while also improving organization and comments.
+
+## Application link
+[Horiseon](https://mimila-85.github.io/01-html-git-css-Homework/)
+
+## Visual Result
+![Header](/Screenshots/Screenshot_1.png)
+![Section](/Screenshots/Screenshot_2.png)
+![Footer](/Screenshots/Screenshot_3.png)
+
