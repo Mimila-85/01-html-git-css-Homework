@@ -2,7 +2,7 @@
 
 ## Description
 
-On this project my client requested to refactor their existing code to make it to follow accessibility standards. Making a website more accessible means to improve its reading capability by technologies that helps people with disabilities to access the internet, such as video captions, screen readers, and braille keyboards. Following accessibility standards also increases the chances of search engines to include your website on the top of the users search.
+On this school project set client requested to refactor their existing code to make it to follow accessibility standards. Making a website more accessible means to improve its reading capability by technologies that helps people with disabilities to access the internet, such as video captions, screen readers, and braille keyboards. Following accessibility standards also increases the chances of search engines to include your website on the top of the users search.
 
 ## Modifications Provide
 
