@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* Sets properties for the figure tag */
+/* Sets properties for the figure tag as well as url for the image */
 figure {
     height: 800px;
     width: 100%;
@@ -104,7 +104,7 @@ figure {
     font-size: 36px;
 }
 
-/* Sets properties for the entire aside with this class  */
+/* Sets properties for the entire aside with this class, which includes the float right property  */
 .benefits-a {
     margin-right: 20px;
     padding: 20px;
